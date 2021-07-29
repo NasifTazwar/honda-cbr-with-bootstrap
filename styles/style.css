@@ -1,0 +1,99 @@
+/* <!-- 1st part-Banner --> */
+.honda-bg{
+    background-color: #264653;
+}
+.honda-bg-font-p-s{
+    font-weight: 300;
+    font-size: 14px;
+    margin-bottom: 0%;
+}
+.honda-bg-font-h{
+    font-weight: 600;
+    font-size: 48px;
+    color: white;
+    margin-top: 0%;
+}
+.honda-bg-font-p{
+    font-weight: 300;
+    font-size: 16px;
+    color: white;
+    margin-top: 18px;
+}
+.honda-btn-orange{
+    background-color: #E76F51;
+}
+.honda-btn-orange-purchase{
+    padding: 10px;
+    width: 168px;
+    height: 44px;
+    margin-top: 21px;
+}
+
+
+.featured-bikes{
+    max-width: 288px;
+    max-height: 243px;
+}
+
+/* <!--Featured Bikes --> */
+.featured-bikes-m{
+    margin-top: 64px;
+}
+.make-gray{
+    filter: grayscale(100%);
+}
+.featured-bikes-h{
+    font-weight: 600;
+    font-size: 48px;
+}
+.best-bike-collection{
+    font-weight: 600;
+    font-size: 14px;
+    color: #E76F51;
+    margin-bottom:120px;
+}
+
+
+/* <!-- Happy Clients says  --> */
+
+.clients-says{
+    color: #E76F51;
+}
+
+.clients-says-font-p{
+    font-weight: normal;
+    font-size: 16px;
+    letter-spacing: 0.2px;
+
+    color: #6C6C6C;
+}
+.clients-says-ratings{
+    color: #E77C40;
+}
+.clients-says-name{
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    color: #23A6F0;
+}
+.clients-says-banker{
+    
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    color: #252B42;
+}
+.clients-says-img{
+    height: 149px;
+    width: 149px;
+}
+.clients-says-m{
+    margin-bottom: 52px;
+    margin-top: 160px;
+}
+
+/* FAQ */
+.faq-m{
+    margin-top: 160px;
+    margin-bottom: 112px;
+}
